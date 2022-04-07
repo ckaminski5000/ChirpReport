@@ -1,0 +1,23 @@
+.footerbg{
+    position: absolute;
+    right: 0;
+    left: 0;
+    height: 40px;
+    background-color: rgb(42, 42, 44);
+    border-top: 5px solid rgb(141, 137, 137);
+    display: flex;
+
+}
+
+.footercol{
+    color: white;
+    font-family: 'Coolvetica';
+    font-size: 18px;
+    text-align: center;
+    flex: 1;
+}
+
+a{
+    text-decoration: none;
+    color: white;
+}

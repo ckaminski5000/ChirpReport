@@ -1,0 +1,28 @@
+.headerbg{
+    height: 45px;
+    flex: 1;    
+
+
+}
+
+@font-face {
+    font-family: 'Coolvetica';
+    src: url('../../fonts/coolvetica.otf');
+}
+
+.logo{
+    font-family: 'Coolvetica';
+    color: white;
+    text-align: left;
+    font-size: 25px;
+    padding: 8px 0px 0px 30px;
+}
+
+.headerContainer{
+    box-shadow: rgba(0, 0, 0, 0.16) 0px 3px 6px, rgba(0, 0, 0, 0.23) 0px 3px 6px;
+    display: flex;
+    background-color: rgb(34, 33, 33);
+    box-shadow: rgba(0, 0, 0, 0.16) 0px 3px 6px, rgba(0, 0, 0, 0.23) 0px 3px 6px;
+    margin-bottom: 40px;
+
+}

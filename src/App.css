@@ -1,5 +1,15 @@
+body{
+  position: relative;
+  margin: 0;
+  background-image: url('./images/black-concrete-wall.jpg'); 
+  background-repeat: no-repeat;
+  background-size: cover;
+  
+}
+
+
 .App {
-  text-align: center;
+ position: relative;
 }
 
 .App-logo {
@@ -28,11 +38,3 @@
   color: #61dafb;
 }
 
-@keyframes App-logo-spin {
-  from {
-    transform: rotate(0deg);
-  }
-  to {
-    transform: rotate(360deg);
-  }
-}
